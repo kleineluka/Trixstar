@@ -25,3 +25,7 @@ replay_pid*
 
 # vscode
 *.code-workspace
+
+# Node
+node_modules/
+npm-debug.log
